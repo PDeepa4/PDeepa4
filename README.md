@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello There!! 👋
+Welcome to my GitHub profile.
 
-<!--
-**PDeepa4/PDeepa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 😄
+I am a graduate data scientist from the HyperionDev Data Science Bootcamp with a specialist background in biomedical science. 
 
-Here are some ideas to get you started:
+### My Skills✨
+- Python programming
+- Pandas and Numpy
+- Data preprocessing
+- Data analysis
+- Data Visualisation (Matplotlib and Seaborn)
+- Natural language programming (spaCy, TextBlob, WordCloud)
+- Machine Learning
+- MS Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My projects on Github 💻
+- Financial Calculator
+- Stock Calculator
+- Learning tool: Functions of organs in our body!
+- Holiday Package Calculator
+- Sentiment Analyser
+
+
